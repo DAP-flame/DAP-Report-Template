@@ -1,5 +1,5 @@
 # contains the name of the template document
-report_dict = {'DAP Report':'DAP Sample report.docx'}
+report_dict = {'DAP Report':'DAP Sample report 2024.docx'}
 
 # year to be mentioned on report
 report_year = '2024'
